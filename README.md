@@ -5,7 +5,10 @@ It is always a pleasure 😌 to see the finished version of application 💫 aft
 [![Mimisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=mimisha25&include_all_commits=true&show_icons=true&hide=stars,contribs&theme=radical&radical=true&show=issues,prs_merged_percentage,prs_merged)](https://github.com/mimisha25/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mimisha25&layout=pie)](https://github.com/mimisha25/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mimisha25&layout=pie&theme=radical)](https://github.com/mimisha25/github-readme-stats)
+
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mimisha25&theme=radical)](https://github.com/mimisha25/github-readme-stats)
 <!--
 **mimisha25/mimisha25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
