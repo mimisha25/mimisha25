@@ -2,7 +2,7 @@
 I have a passion in Front End coding and I love creating new application 💙! 
 It is always a pleasure 😌 to see the finished version of application 💫 after millions lines of code!
 
-Mimisha 25 (https://github-readme-stats.vercel.app/api?username=mimisha25)](https://github.com/mimisha25/github-readme-stats)
+[![Mimisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=mimisha25)](https://github.com/mimisha25/github-readme-stats)
 <!--
 **mimisha25/mimisha25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
