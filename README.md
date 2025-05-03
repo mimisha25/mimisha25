@@ -2,7 +2,7 @@
 I have a passion in Front End coding and I love creating new application 💙! 
 It is always a pleasure 😌 to see the finished version of application 💫 after millions lines of code!
 
-[![Mimisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=mimisha25&include_all_commits=true&show_icons=true&hide=stars,contribs&theme=radical&radical=true&show=issues,prs_merged_percentage)](https://github.com/mimisha25/github-readme-stats)
+[![Mimisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=mimisha25&include_all_commits=true&show_icons=true&hide=stars,contribs&theme=radical&radical=true&show=issues,prs_merged_percentage,prs_merged)](https://github.com/mimisha25/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mimisha25)](https://github.com/mimisha25/github-readme-stats)
