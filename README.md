@@ -6,7 +6,8 @@
 🌱 I’m currently building my skills in DataBase programming with PostgreSQL, SQL and MondgoDB
 </br>
 🔭 I’m currently working on the project which will be similar to Social Network but it is related to job search.
-
+</br>
+</br>
 
 <a href="https://github.com/mimisha25/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mimisha25&include_all_commits=true&show_icons=true&hide=stars,contribs&theme=radical&radical=true&show=issues,prs_merged_percentage,prs_merged)" />
