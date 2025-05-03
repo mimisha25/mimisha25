@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Hi, I am mimisha! 👋
+I have a passion in Front End coding and I love creating new application 💙! 
+It is always a pleasure 😌 to see the finished version of application 💫 after millions lines of code!
 <!--
 **mimisha25/mimisha25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
