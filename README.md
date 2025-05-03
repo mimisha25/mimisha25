@@ -1,5 +1,5 @@
 ## Hi, I am mimisha! 👋
-💙 I have a passion in **Front End ** coding and I love creating new application ! \
+💙 I have a passion in **Front End** coding and I love creating new application ! \
 </br>
 😌 It is always a pleasure  to see the finished version of application 💫 after millions lines of code!\
 </br>
