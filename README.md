@@ -3,7 +3,7 @@ I have a passion in Front End coding and I love creating new application 💙!
 It is always a pleasure 😌 to see the finished version of application 💫 after millions lines of code!
 
 <a href="https://github.com/mimisha25/github-readme-stats">
-  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats](https://github-readme-stats.vercel.app/api?username=mimisha25&include_all_commits=true&show_icons=true&hide=stars,contribs&theme=radical&radical=true&show=issues,prs_merged_percentage,prs_merged)" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mimisha25&include_all_commits=true&show_icons=true&hide=stars,contribs&theme=radical&radical=true&show=issues,prs_merged_percentage,prs_merged)" />
 </a>
 <a href="https://github.com/mimisha25/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mimisha25&layout=pie&theme=radical" />
