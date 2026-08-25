@@ -1,11 +1,11 @@
 ## Hi, I am mimisha! 👋
-💙 I have a passion in **Front End** coding and I love creating new application ! \
+💙 I have a passion in **Software Engineering** coding and I love creating new application ! \
 </br>
 😌 It is always a pleasure  to see the finished version of application 💫 after millions lines of code!\
 </br>
-🌱 I’m currently building my skills in DataBase programming with PostgreSQL, SQL and MondgoDB\
+🌱 I’m currently building my skills in RAG Engineering\
 </br>
-🔭 I’m currently working on the project which will be similar to Social Network but it is related to job search.
+🔭 I’m currently working on the project which will be related to AI agents and automation.
 </br>
 </br>
 
